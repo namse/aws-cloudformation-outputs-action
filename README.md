@@ -16,6 +16,6 @@ Every key of stack outputs will be filled as github action oputputs.
 
 ## Example usage
 
-uses: namse/aws-cloudformation-outputs-action@v1.0
+uses: namse/aws-cloudformation-outputs-aciton@v1.0
 with:
   stack-name: 'MyCfnStackName'
